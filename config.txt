@@ -1,0 +1,3 @@
+navegador = edge
+nickname = Danaxar
+servidor = LAS
